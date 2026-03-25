@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Chain the world",
+  "base_artist": "東山奈央",
+  "createdAt": "2026-03-25T16:44:23.216627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chain the World",
+      "artist": "Nao Toyama",
+      "has_synced": true,
+      "path": "select/01_Chain_the_World_Nao_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chain the world",
+      "artist": "東山奈央",
+      "has_synced": true,
+      "path": "select/02_Chain_the_world_東山奈央.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chain the world",
+      "artist": "Toyama Nao",
+      "has_synced": true,
+      "path": "select/03_Chain_the_world_Toyama_Nao.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chain the world (Instrumental ver.)",
+      "artist": "Toyama Nao",
+      "has_synced": true,
+      "path": "select/04_Chain_the_world_(Instrumental_ver.)_Toyama_Nao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chain the world",
+      "artist": "Nao Tōyama",
+      "has_synced": true,
+      "path": "select/05_Chain_the_world_Nao_Tōyama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chain the world (Instrumental ver.)",
+      "artist": "Nao Tōyama",
+      "has_synced": true,
+      "path": "select/06_Chain_the_world_(Instrumental_ver.)_Nao_Tōyama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chain the world",
+      "artist": "東山奈央",
+      "has_synced": false,
+      "path": "select/pl_01_Chain_the_world_東山奈央.txt"
+    }
+  ]
+}
